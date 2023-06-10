@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4bkh92.jpg"},
+  {"desc2":"Cameraman Mod is a user-created modification for GMOD that enhances the game's camera system, providing players with more control and flexibility when capturing in-game footage","photo2":"https://iili.io/H4bkww7.jpg"},
+  {"desc3":"This mod expands on the limited camera options available in the base game and enables players to create professional-grade cinematography within the virtual environment","photo3":"https://iili.io/H4bkW8l.jpg"},
+  {"desc4":"Whether you're interested in machinima, storytelling, or simply capturing awe-inspiring moments, Cameraman Mod offers an array of tools to fulfill your creative vision.","photo4":"https://iili.io/H4bkMFf.jpg"},
+  {"desc5":"Cameraman Mod introduces a range of camera control options that significantly enhance the player's ability to navigate and manipulate the camera within GMOD","photo5":"https://iili.io/H4bkkMu.jpg"},
+  {"descd":"These include precise camera movement controls, allowing players to adjust position, rotation, and field of view with ease","photod":"https://iili.io/H4bkNt9.webp"}
    ]
  
 }
